@@ -1,0 +1,24 @@
+{
+  "name": "qa-automation-cypress-saucedemo",
+  "version": "1.0.0",
+  "description": "Projeto de automação de testes E2E da aplicação Sauce Demo utilizando Cypress e JavaScript, desenvolvido com o objetivo de demonstrar conhecimentos em QA Automation, boas práticas de automação de testes e organização de projetos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatriciaLisboa/qa-automation-cypress-saucedemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PatriciaLisboa/qa-automation-cypress-saucedemo/issues"
+  },
+  "homepage": "https://github.com/PatriciaLisboa/qa-automation-cypress-saucedemo#readme",
+  "devDependencies": {
+    "cypress": "^15.19.0"
+  }
+}

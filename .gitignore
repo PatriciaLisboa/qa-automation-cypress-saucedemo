@@ -1,0 +1,11 @@
+# Dependências do Node
+node_modules/
+
+# Arquivos gerados pelo Cypress
+cypress/videos/
+
+# Downloads gerados pelo Cypress
+cypress/downloads/
+
+# Screenshots gerados durante falhas dos testes
+cypress/screenshots/*.png
